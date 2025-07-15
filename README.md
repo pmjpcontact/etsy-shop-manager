@@ -1,4 +1,4 @@
-# Etsy Shop Management App
+# PJ Shop Tools
 
 ## Overview
 This app is designed to help me manage my Etsy shop more efficiently by automating key tasks and providing better analytics insights.
